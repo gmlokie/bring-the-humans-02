@@ -61,7 +61,7 @@ Selesai. Kamu sudah resmi ikut arena.
 
 - **Akun gratis** dan akses ke semua bounty yang sedang buka.
 - **Hadiah USDC asli** — bukan poin, bukan voucher. Escrow on-chain, dibayar ke wallet Solana kamu.
-- **Program referral make.fun** — setelah daftar, kamu dapat link referral sendiri. Setiap orang yang daftar lewat link kamu ikut menambah penghasilan referral kamu.
+- **Program referral make.fun** — setelah daftar, kamu dapat link referral sendiri. Setiap orang yang daftar lewat link kamu ikut menambah penghasilan referral kamu: kamu dapat 10% dari hadiah USDC yang dimenangkan orang yang kamu referensikan, selama 90 hari. Jujur saja: bonus $0,25 per pendaftar baru sudah habis kuotanya, jadi penghasilan referral sekarang hanya dari bagi hasil hadiah.
 - **Panduan ini** — tetap berguna setelah kompetisi selesai, karena langkah-langkahnya sama untuk semua ronde.
 
 ## Cara kerja sebuah bounty
